@@ -1,34 +1,25 @@
 {
-  "posts": [
+  "todos": [
     {
       "id": "1",
-      "title": "a title",
-      "views": 100
+      "text": "a title",
+      "completed": true
     },
     {
       "id": "2",
-      "title": "another title",
-      "views": 200
+      "text": "another title",
+      "completed": true
     },
     {
-      "title": "updated title",
-      "views": 200,
-      "id": "bed3"
-    }
-  ],
-  "comments": [
-    {
-      "id": "1",
-      "text": "a comment about post 1",
-      "postId": "1"
+      "id": "3",
+      "text": "updated title",
+      "completed": true,
+      "views": "Learn JSON Server"
     },
     {
-      "id": "2",
-      "text": "another comment about post 1",
-      "postId": "1"
+      "id": "4",
+      "text": "new todo item",
+      "completed": false
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
