@@ -2,23 +2,23 @@
   "todos": [
     {
       "id": "1",
-      "text": "a title",
+      "title": "a title",
       "completed": true
     },
     {
       "id": "2",
-      "text": "another title",
+      "title": "another title",
       "completed": true
     },
     {
       "id": "3",
-      "text": "updated title",
+      "title": "updated title",
       "completed": true,
       "views": "Learn JSON Server"
     },
     {
       "id": "4",
-      "text": "new todo item",
+      "title": "new todo item",
       "completed": false
     }
   ]
