@@ -1,25 +1,29 @@
 {
   "todos": [
     {
-      "id": "1",
-      "title": "a title",
-      "completed": true
-    },
-    {
-      "id": "2",
-      "title": "another title",
-      "completed": true
-    },
-    {
-      "id": "3",
-      "title": "updated title",
-      "completed": true,
-      "views": "Learn JSON Server"
-    },
-    {
-      "id": "4",
-      "title": "new todo item",
+      "id": "6a5d",
+      "title": "Dizz Lili Py",
       "completed": false
+    },
+    {
+      "id": "5e0e",
+      "title": "Loop Rop copy",
+      "completed": true
+    },
+    {
+      "id": "0594",
+      "title": "Jack Nolen",
+      "completed": true
+    },
+    {
+      "id": "a260",
+      "title": "Abraham Smithson",
+      "completed": false
+    },
+    {
+      "id": "1f7f",
+      "title": "Joly Kwan",
+      "completed": true
     }
   ]
 }
