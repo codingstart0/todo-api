@@ -1,44 +1,19 @@
 {
   "todos": [
     {
-      "id": "6a5d",
-      "title": "Dizz Lili Py",
+      "id": "442c",
+      "title": "Test vercel",
       "completed": false
     },
     {
-      "id": "5e0e",
-      "title": "Loop Rop copy",
+      "id": "4256",
+      "title": "Use Angular Material",
+      "completed": false
+    },
+    {
+      "id": "0e38",
+      "title": "Plug in Api",
       "completed": true
-    },
-    {
-      "id": "0594",
-      "title": "Jack Nolen",
-      "completed": true
-    },
-    {
-      "id": "a260",
-      "title": "Abraham Smithson",
-      "completed": false
-    },
-    {
-      "id": "8bb6",
-      "title": "66633",
-      "completed": false
-    },
-    {
-      "id": "1f7f",
-      "title": "Joly Kwan",
-      "completed": true
-    },
-    {
-      "id": "1523",
-      "title": "Figure it out \"Vercel\"",
-      "completed": false
-    },
-    {
-      "id": "8604",
-      "title": "Work on angular material",
-      "completed": false
     }
   ]
 }
